@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642123192913",
+    "project_id": "pollkadot-v2",
+    "storage_bucket": "pollkadot-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642123192913:android:9859ee4098b61f1a55b670",
+        "android_client_info": {
+          "package_name": "com.example.pollkadotv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642123192913-016j3kfcol9p3hhrnphntv02fkc523e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7p17ZorMNfZXluiCkDRbbce_Q65JEVV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642123192913-016j3kfcol9p3hhrnphntv02fkc523e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
